@@ -6,7 +6,7 @@ A dependency-free Python automation portfolio project prepared for Sadia Liaqat 
 
 ## Visual overview
 
-![SortSafe workflow overview](preview.jpg)
+![SortSafe workflow overview](preview-v2.png)
 
 This designed overview illustrates the CLI workflow; it is not a shipped graphical application. The runnable product is the Python command-line tool below.
 
